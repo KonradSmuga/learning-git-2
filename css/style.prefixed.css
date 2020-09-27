@@ -3,8 +3,6 @@ body {
     word-wrap: break-word;
     text-align: left;
     width: 220px;
-    display:-ms-flexbox;
-    display:flex;
 }
 
 
